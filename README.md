@@ -1,4 +1,4 @@
-[Your Display Name](https://www.instagram.com/yourusername/)
+
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://abhishek7242.io)
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>

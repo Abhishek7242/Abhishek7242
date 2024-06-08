@@ -1,3 +1,10 @@
+<a href="https://www.instagram.com/your_instagram_username" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="20" height="20">
+</a> 
+<a href="https://www.instagram.com/your_instagram_username" target="_blank">
+  John Doe
+</a>
+
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://abhishek7242.io)
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>

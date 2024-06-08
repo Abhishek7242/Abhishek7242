@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **vabhishak45@gamil.com**
+- 📫 How to reach me **vabhishak45@gmail.com**
 
 - ⚡ Fun fact **“Why did the web developer stay up all night? Because he lost track of his while loop!” 😄🌐**
 
